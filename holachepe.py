@@ -1,4 +1,4 @@
-Este programa dice "Hola chepe" y aparte hace un par de operaciones.
+#Este programa dice "Hola chepe" y aparte hace un par de operaciones.
 print("Hola Chepe")
 
 print("Esto es una suma")
